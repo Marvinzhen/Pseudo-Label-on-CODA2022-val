@@ -2,9 +2,9 @@
 Llava-based pseudo label creation and labelme based adjustment
 ## 用LLava大语言模型初步创建伪标签
 ### 整理输入问题文件
-'
+`'`
 python generate_q.py
-'
+`'`
 ### 初步创建伪标签基于LLava大模型实现，[LLava代码](https://github.com/haotian-liu/LLaVA?tab=readme-ov-file)，在模型下添加model_vqa1.py运行。
 '
 python model_vqa1.py \
