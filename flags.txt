@@ -1,0 +1,11 @@
+littering
+traffic accidents
+construction
+parking violations
+instrusion of non-motorized vehicles
+pedestrian violations
+obstacles
+traffic facility issues
+normal
+traffic congestion
+traffic
