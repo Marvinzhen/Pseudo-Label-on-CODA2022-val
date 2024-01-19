@@ -1,11 +1,14 @@
-littering
+road debris
 traffic accidents
 construction
 parking violations
-instrusion of non-motorized vehicles
+intrusion of non-motorized vehicles
 pedestrian violations
 obstacles
-traffic facility issues
+wrong-way driving
 normal
 traffic congestion
-traffic
+running a red light
+crossing solid lines
+failure to follow the designated lane
+traffic signal malfunction
